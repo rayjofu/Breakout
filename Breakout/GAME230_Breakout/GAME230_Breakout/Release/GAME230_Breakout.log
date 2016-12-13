@@ -1,0 +1,8 @@
+﻿  Ball.cpp
+c:\users\rafu\documents\breakout\game230_breakout\game230_breakout\Ball.h(3): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Brick.cpp
+c:\users\rafu\documents\breakout\game230_breakout\game230_breakout\Brick.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  main.cpp
+main.cpp(1): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Paddle.cpp
+c:\users\rafu\documents\breakout\game230_breakout\game230_breakout\Paddle.h(3): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory

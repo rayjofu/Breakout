@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\rafu\documents\breakout\game230_breakout\game230_breakout\main.cpp(83): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\rafu\documents\breakout\game230_breakout\game230_breakout\main.cpp(87): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\rafu\documents\breakout\game230_breakout\game230_breakout\main.cpp(90): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\rafu\documents\breakout\game230_breakout\game230_breakout\main.cpp(204): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\rafu\documents\breakout\game230_breakout\game230_breakout\main.cpp(205): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\rafu\documents\breakout\game230_breakout\game230_breakout\main.cpp(339): warning C4018: '<': signed/unsigned mismatch
+c:\users\rafu\documents\breakout\game230_breakout\game230_breakout\main.cpp(402): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rafu\documents\breakout\game230_breakout\game230_breakout\main.cpp(451): warning C4018: '<': signed/unsigned mismatch
+  GAME230_Breakout.vcxproj -> C:\Users\rafu\Documents\Breakout\GAME230_Breakout\Debug\GAME230_Breakout.exe
+  GAME230_Breakout.vcxproj -> C:\Users\rafu\Documents\Breakout\GAME230_Breakout\Debug\GAME230_Breakout.pdb (Full PDB)
